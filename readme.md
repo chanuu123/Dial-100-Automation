@@ -83,9 +83,3 @@ Comparative evaluation across multiple LLMs showed:
 
 ---
 
-
-
-## ⭐ Repository Status
-
-This repository is intended for **academic and research use**. Production deployment in real PSAPs would require extensive validation, compliance checks, and regulatory approval.
-
