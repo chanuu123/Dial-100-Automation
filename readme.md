@@ -83,15 +83,6 @@ Comparative evaluation across multiple LLMs showed:
 
 ---
 
-## 🔮 Future Work
-
-- Extend to medical, fire, and multi-agency emergencies
-- Integrate real-time GPS and geospatial data
-- Improve multilingual and dialect robustness
-- Add uncertainty estimation and human-in-the-loop controls
-
----
-
 
 
 ## ⭐ Repository Status
