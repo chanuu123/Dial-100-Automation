@@ -92,25 +92,7 @@ Comparative evaluation across multiple LLMs showed:
 
 ---
 
-## 🎓 Academic Context
 
-This work was carried out as part of a **Master’s Thesis Project** at **IIT Kharagpur**, under the supervision of **Prof. Richa Ahuja**, Center of Excellence on Safety Engineering and Analytics.
-
----
-
-## 📄 Citation
-
-If you use or build upon this work, please cite:
-
-> *Baliji Manikanta*, “Towards Autonomous Emergency Response: A Multi-Agent LLM System for End-to-End PSAP Automation,” Master’s Thesis, IIT Kharagpur, 2025–26.
-
----
-
-## 🤝 Acknowledgements
-
-Special thanks to the Center of Excellence on Safety Engineering and Analytics, IIT Kharagpur, and Delhi Police FIR data sources used for research purposes.
-
----
 
 ## ⭐ Repository Status
 
